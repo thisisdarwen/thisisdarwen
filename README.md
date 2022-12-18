@@ -6,7 +6,7 @@
 ### <div align="center">I'm Darwen, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/thisisdarwen)  
+- 🔭 I’m currently working on (https://github.com/thisisdarwen)  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
