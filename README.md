@@ -2,12 +2,24 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm [Your Name], a full-time freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
+### <div align="center">I'm [Your Name], a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
 
 - 🔭 I’m currently working on (https://github.com/thisisdarwen)  
+
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
-- ❓ Ask me about anything related to PHP, C#, C++, and web development  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+
 - ⚡ Fun fact: I use tabs over spaces  
+
+<br/>  
+
+## About Me  
+- I'm 25 years old. I provide services in PHP custom software, PHP software editing, e-commerce software, HTML, CSS, PHP, C#, C++ frontend development, and Discord bot development. I also work in network and network technologies. I am a co-founder of Boğaziçi Information Technologies (bogazici.net) and Balkan Agency.
+
+- Ich bin 25 Jahre alt. Ich biete Dienstleistungen in den Bereichen PHP-Softwareanpassungen, PHP-Softwarebearbeitung, E-Commerce-Software, HTML, CSS, PHP, C#, C++ Frontend-Entwicklung und Discord-Bot-Entwicklung an. Ich arbeite auch im Bereich Netzwerk- und Netzwerktechnologien. Ich bin Mitgründer von Boğaziçi Information Technologies (bogazici.net) und Balkan Agency.
+
+- J'ai 25 ans. Je fournis des services dans les domaines des logiciels personnalisés PHP, de l'édition de logiciels PHP, des logiciels de commerce électronique, HTML, CSS, PHP, C#, C++ développement frontend et développement de bots Discord. Je travaille également dans les technologies réseau et réseau. Je suis co-fondateur de Boğaziçi Information Technologies (bogazici.net) et de Balkan Agency.
 
 <br/>  
 
@@ -29,6 +41,8 @@
 
 </td><td valign="top" width="33%">
 
+
+
 ### Backend  
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
@@ -48,6 +62,8 @@
 
 </td><td valign="top" width="33%">
 
+
+
 ### DevOps  
 <div align="center">  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
@@ -64,24 +80,9 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/thisisdarwen" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/thisisdarwen" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/thisisdarwen" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/thisisdarwen" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.instagram.com/thisisdarwen" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+<a href="https://github.com/thisisdarwen" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/github.png" /></a>
+<a href="https://www.linkedin.com/in/thisisdarwen/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" /></a>
+<a href="https://www.facebook.com/thisisdarwen" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/facebook-new.png" /></a>
+<a href="https://www.instagram.com/thisisdarwen/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" /></a>
+<a href="https://www.twitter.com/thisisdarwen/" target="_blank"><img style="margin: 10px" src="https://img.icons8.com/ios-filled/50/000000/twitter.png" /></a>
 </div>  
-
-<br/>  
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=thisisdarwen&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" /></div>  
