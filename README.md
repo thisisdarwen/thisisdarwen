@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 
-### <div align="center">I'm [Your Name], a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
+### <div align="center">I'm Tugay, a full-time full-stack freelance developer 👨‍💻 working remotely since 2017 🚀</div>  
 
 - 🔭 I’m currently working on (https://github.com/thisisdarwen)  
 
